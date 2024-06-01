@@ -1,0 +1,1 @@
+Created Interactive Dashboard to track and analyze online sales data. Used different types of customized visualization. Used complex parameters to drill down in worksheet and customization using filters and slices. 
